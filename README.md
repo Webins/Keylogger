@@ -9,6 +9,10 @@ Al compilar el codigo, es necesario activar el estandar C++11 y la bandera -mwin
 El keyloger permite capturar todas las teclas introducidad en el teclado, el cual guardara a un archivo escondido
 dentro de la carpeta AppData. Este archivo estara encriptado y sera enviado al correo especificado cada cierto tiempo.
 
+
+# Keylogger
+
+
 This keylogger is written in C++ and can be used on Windows 7,8,10 machines.
 Be sure to enable C++11 standards and the -mwindows flag to compile it.
 
